@@ -7,60 +7,64 @@ Basic
 
 Booleans
 
-- [x]  Ex. 3 - [https://exercism.org/tracks/javascript/exercises/annalyns-infiltration](https://exercism.org/tracks/javascript/exercises/annalyns-infiltration)
+- [x]  Ex. 3 - [annalyns-infiltration](https://exercism.org/tracks/javascript/exercises/annalyns-infiltration)
 
 Arithmetic Operations | Numbers
 
-- [x]  Ex. 4 -  [https://exercism.org/tracks/javascript/exercises/freelancer-rates](https://exercism.org/tracks/javascript/exercises/freelancer-rates)
+- [x]  Ex. 4 -  [freelancer-rates](https://exercism.org/tracks/javascript/exercises/freelancer-rates)
 
 Strings
 
-- [x]  Ex. 5 - [https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy)
+- [x]  Ex. 5 - [poetry-club-door-policy](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy)
 
 Arrays
 
-- [x]  Ex. 6 - [https://exercism.org/tracks/javascript/exercises/elyses-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)
+- [x]  Ex. 6 - [elyses-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)
 
 Conditionals | Comparations
 
-- [x]  Ex. 7 - [https://exercism.org/tracks/javascript/exercises/vehicle-purchase](https://exercism.org/tracks/javascript/exercises/vehicle-purchase)
+- [x]  Ex. 7 - [vehicle-purchase](https://exercism.org/tracks/javascript/exercises/vehicle-purchase)
 
 Increment/Decrement | For Loops
 
-- [x]  Ex.8 - [https://exercism.org/tracks/javascript/exercises/bird-watcher](https://exercism.org/tracks/javascript/exercises/bird-watcher)
+- [x]  Ex.8 - [bird-watcher](https://exercism.org/tracks/javascript/exercises/bird-watcher)
 
 While Loops | Switch Statement
 
-- [x]  Ex.9 - [https://exercism.org/tracks/javascript/exercises/mixed-juices](https://exercism.org/tracks/javascript/exercises/mixed-juices)
+- [x]  Ex.9 - [mixed-juices](https://exercism.org/tracks/javascript/exercises/mixed-juices)
 
 Type Conversion
 
-- [x]  Ex.10 - [https://exercism.org/tracks/javascript/exercises/lucky-numbers](https://exercism.org/tracks/javascript/exercises/lucky-numbers)
+- [x]  Ex.10 - [lucky-numbers](https://exercism.org/tracks/javascript/exercises/lucky-numbers)
 
 Null & Undefined
 
-- [x]  Ex.11 - [https://exercism.org/tracks/javascript/exercises/amusement-park](https://exercism.org/tracks/javascript/exercises/amusement-park)
+- [x]  Ex.11 - [amusement-park](https://exercism.org/tracks/javascript/exercises/amusement-park)
 
 Objects
 
-- [x]  Ex.12 - [https://exercism.org/tracks/javascript/exercises/high-score-board](https://exercism.org/tracks/javascript/exercises/high-score-board)
+- [x]  Ex.12 - [high-score-board](https://exercism.org/tracks/javascript/exercises/high-score-board)
 
 Functions
 
-- [x]  Ex.13 - [https://exercism.org/tracks/javascript/exercises/lasagna-master](https://exercism.org/tracks/javascript/exercises/lasagna-master)
+- [x]  Ex.13 - [lasagna-master](https://exercism.org/tracks/javascript/exercises/lasagna-master)
 
 Closures
 
-- [x]  Ex.14 - [https://exercism.org/tracks/javascript/exercises/coordinate-transformation](https://exercism.org/tracks/javascript/exercises/coordinate-transformation)
+- [x]  Ex.14 - [coordinate-transformation](https://exercism.org/tracks/javascript/exercises/coordinate-transformation)
 
 CallBacks
 
-- [x]  Ex.15 - [https://exercism.org/tracks/javascript/exercises/coordinate-transformation](https://exercism.org/tracks/javascript/exercises/fruit-picker)
+- [x]  Ex.15 - [coordinate-transformation](https://exercism.org/tracks/javascript/exercises/fruit-picker)
 
 Template Strings | Ternary Operator
 
-- [x]  Ex.16 - [https://exercism.org/tracks/javascript/exercises/custom-signs](https://exercism.org/tracks/javascript/exercises/custom-signs)
+- [x]  Ex.16 - [custom-signs](https://exercism.org/tracks/javascript/exercises/custom-signs)
 
 Arrays Destructuring | Rest & Spread Operator
 
-- [x]  Ex.17 - [https://exercism.org/tracks/javascript/exercises/elyses-destructured-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-destructured-enchantments)
+- [x]  Ex.17 - [elyses-destructured-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-destructured-enchantments)
+
+Array Analysis | Arrow Functions
+
+- [x]  Ex.18 - [elyses-analytic-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-analytic-enchantments)
