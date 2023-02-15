@@ -68,3 +68,8 @@ Arrays Destructuring | Rest & Spread Operator
 Array Analysis | Arrow Functions
 
 - [x]  Ex.18 - [elyses-analytic-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-analytic-enchantments)
+
+Prototypes & Classes
+
+- [x]  Ex.19 - [windowing-system](https://exercism.org/tracks/javascript/exercises/windowing-system)
+
