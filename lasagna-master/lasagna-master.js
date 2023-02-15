@@ -28,16 +28,44 @@ export function quantities(layers){
     const sauce = 0.2
     const noodles = 50
 
-    let sauceQuantity = 0
-    let noodlesQuantity = 0
+    // let sauceQuantity = 0
+    // let noodlesQuantity = 0
+
+    //for each Method
+    // layers.array.forEach(element => {
+    //     if(element === 'sauce'){
+    //         sauceQuantity += sauce
+    //     } else if(element === 'noodles'){
+    //         noodlesQuantity += noodles
+    //     }
+    // });
     
-    for (let index = 0; index < layers.length; index++) {
-        if(layers[index]==='sauce'){
-            sauceQuantity += sauce
-        } else if(layers[index]==='noodles'){
-            noodlesQuantity += noodles
+    //reduce Method
+    const sauceQuantity = layers.reduce((accumulator, currentLayer) => {
+        if (currentLayer === 'sauce') {
+          return accumulator + sauce;
+        } else {
+          return accumulator;
         }
-    }
+      }, 0);
+      
+      const noodlesQuantity = layers.reduce((accumulator, currentLayer) => {
+        if (currentLayer === 'noodles') {
+          return accumulator + noodles;
+        } else {
+          return accumulator;
+        }
+      }, 0);
+    
+    //Version Original(Refactorizar - No optima)
+    // for (let index = 0; index < layers.length; index++) {
+    //     if(layers[index]==='sauce'){
+    //         sauceQuantity += sauce
+    //     } else if(layers[index]==='noodles'){
+    //         noodlesQuantity += noodles
+    //     }
+    // }
+
     return {
         sauce:sauceQuantity,
         noodles:noodlesQuantity
