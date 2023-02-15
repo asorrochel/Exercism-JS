@@ -73,3 +73,6 @@ Prototypes & Classes
 
 - [x]  Ex.19 - [windowing-system](https://exercism.org/tracks/javascript/exercises/windowing-system)
 
+Errors | Inheritance
+
+- [x]  Ex.20 - [factory-sensors](https://exercism.org/tracks/javascript/exercises/factory-sensors)
