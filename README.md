@@ -76,3 +76,7 @@ Prototypes & Classes
 Errors | Inheritance
 
 - [x]  Ex.20 - [factory-sensors](https://exercism.org/tracks/javascript/exercises/factory-sensors)
+
+Array Transformations
+
+- [x]  Ex.21 - [elyses-transformative-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-transformative-enchantments)
