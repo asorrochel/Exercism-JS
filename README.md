@@ -85,3 +85,9 @@ Array Transformations
 Regular Expressions
 
 - [x]  Ex.22 - [regular-chatbot](https://exercism.org/tracks/javascript/exercises/regular-chatbot)
+
+Arrays Loops
+
+- [x]  Ex.23 - [elyses-looping-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-looping-enchantments)
+
+
