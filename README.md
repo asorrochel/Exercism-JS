@@ -80,3 +80,8 @@ Errors | Inheritance
 Array Transformations
 
 - [x]  Ex.21 - [elyses-transformative-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-transformative-enchantments)
+
+
+Regular Expressions
+
+- [x]  Ex.22 - [regular-chatbot](https://exercism.org/tracks/javascript/exercises/regular-chatbot)
