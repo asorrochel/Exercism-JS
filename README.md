@@ -91,3 +91,27 @@ Arrays Loops
 - [x]  Ex.23 - [elyses-looping-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-looping-enchantments)
 
 
+Two Fer
+
+- [x]  Ex.24 - [two-fer](https://exercism.org/tracks/javascript/exercises/two-fer)
+
+Resistor Color
+
+- [x]  Ex.25 - [Resistor Color](https://exercism.org/tracks/javascript/exercises/resistor-color)
+
+Resistor Color Duo
+
+- [x]  Ex.26 - [Resistor Color Duo](https://exercism.org/tracks/javascript/exercises/resistor-color-duo)
+
+Gigasecond
+
+- [x]  Ex.27 - [Gigasecond](https://exercism.org/tracks/javascript/exercises/gigasecond)
+
+RNA Transcription
+
+- [x]  Ex.28 - [RNA Transcription](https://exercism.org/tracks/javascript/exercises/rna-transcription)
+
+Space Age
+
+- [x]  Ex.29 - [Space-Age](https://exercism.org/tracks/javascript/exercises/space-age)
+
